@@ -1,3 +1,6 @@
+# About this fork
+I have added a prop version to specify the version of QR code is generated.
+
 # Looking for maintainers
 I'm not working on any React Native projects anymore. Feel free to take over this project if you feel good about it!
 
